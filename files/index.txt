@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-x
-=======
-<?php 
-  print "hello";
-?>
->>>>>>> 0de9a482897dcefcf79920bc00632b267bb81389
-=======
-file.file.file.xxxx
->>>>>>> b7023b3242d600415c367abc0a51ab7463e1b2d6
+mytext
